@@ -33,7 +33,7 @@
 - The client will start at `localhost:8000`
 - Open **TWO** (2) browser tabs, of identical address: `localhost:8000`
 ![Starting screens](resouces/starting_screens.png)
-- Enter a different name on each of the tab
+- Enter a different name on each of the tabs
 ![Enter a name](resouces/when-one-name-entered.png)
 - Message session will start when two names have been entered
 - Now chat and enjoy! Instant messaging is live
