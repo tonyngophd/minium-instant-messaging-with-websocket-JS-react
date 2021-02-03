@@ -2,7 +2,7 @@
 # Messenger
 ## Minimum Instant Web-messaging with JavaScript, Websocket and React
 
-[!When chat is on!](https://github.com/suasllc/minium-instant-messaging-with-websocket-JS-react/blob/master/resouces/when-chat-is-one.png)
+[When chat is on!](https://github.com/suasllc/minium-instant-messaging-with-websocket-JS-react/blob/master/resouces/when-chat-is-one.png)
 
 ## Instructions:
 - This repo contains a Server side and a Client side
