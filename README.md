@@ -31,7 +31,10 @@
   ```
 - The client will start at `localhost:8000`
 - Open **TWO** (2) browser tabs, of identical address: `localhost:8000`
+![Starting screens](https://github.com/suasllc/minium-instant-messaging-with-websocket-JS-react/blob/master/resouces/starting_screens.png)
 - Enter a different name on each of the tab
+![Enter a name](https://github.com/suasllc/minium-instant-messaging-with-websocket-JS-react/blob/master/resouces/when-one-name-entered.png)
 - Message session will start when two names have been entered
 - Now chat and enjoy! Instant messaging is live
+![Chat now](https://github.com/suasllc/minium-instant-messaging-with-websocket-JS-react/blob/master/resouces/when-chat-is-one.png)
 
