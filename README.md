@@ -1,6 +1,7 @@
 
 # Messenger
 ## Minimum Instant Web-messaging with JavaScript, Websocket and React
+### A modified version from App Academy Websocket Tic-tac-toe solution (chat function added and tic-tac-toe game functions removed)
 
 ![When chat is on!](resouces/when-chat-is-one.png)
 
