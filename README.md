@@ -2,6 +2,8 @@
 # Messenger
 ## Minimum Instant Web-messaging with JavaScript, Websocket and React
 
+[!When chat is on!](https://github.com/suasllc/minium-instant-messaging-with-websocket-JS-react/blob/master/resouces/when-chat-is-one.png)
+
 ## Instructions:
 - This repo contains a Server side and a Client side
 - First clone the repo
@@ -28,7 +30,7 @@
   npm start
   ```
 - The client will start at `localhost:8000`
-- Open two browser tabs, of identical address: `localhost:8000`
+- Open **TWO** (2) browser tabs, of identical address: `localhost:8000`
 - Enter a different name on each of the tab
 - Message session will start when two names have been entered
 - Now chat and enjoy! Instant messaging is live
